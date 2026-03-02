@@ -1,45 +1,32 @@
 # FOREVER Ecommerce
 
-## Project Overview
+## Project Structure
 
-FOREVER Ecommerce is an online shopping platform designed to provide users with a seamless shopping experience. The project aims to offer a wide selection of products, easy navigation, and a friendly interface to enhance user experience.
+- `src/` - Contains all the source code.
+- `public/` - Contains all the public assets.
+- `tests/` - Contains all the test cases.
+- `README.md` - Project documentation.
+- `package.json` - Project metadata and dependencies.
 
-## Installation
+## Description
 
-To install the project, follow these steps:
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/harshitha-VGN/FOREVER-Ecommerce.git
-   ```
-2. Navigate to the project directory:
-   ```shell
-   cd FOREVER-Ecommerce
-   ```
-3. Install the required dependencies:
-   ```shell
-   npm install
-   ```
-4. Start the development server:
-   ```shell
-   npm start
-   ```
+FOREVER Ecommerce is an online shopping platform designed to provide a seamless shopping experience for users.
+
+## Getting Started
+
+Instructions on how to set up and run the project locally.
 
 ## Features
-- **User-friendly interface:** Easy navigation and product search.
-- **Secure payment gateway:** Safe transactions with multiple payment options.
-- **Responsive design:** Optimized for both desktop and mobile users.
-- **Product categories:** Users can browse products by categories.
-- **User accounts:** Customers can register and manage their accounts.
 
-## Project Structure
-```
-FOREVER-Ecommerce/
-├── src/
-│   ├── components/  # React components
-│   ├── pages/       # Main application pages
-│   ├── assets/      # Images, styles, and other assets
-│   └── utils/       # Utility functions
-├── public/          # Static files
-├── package.json      # Project metadata and dependencies
-└── README.md        # Project overview and documentation
-```
+- User-friendly interface
+- Secure payment options
+- Order tracking
+- Customer reviews
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+This project is licensed under the MIT License.
